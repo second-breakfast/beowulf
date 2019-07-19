@@ -1,2 +1,2 @@
 # beowulf
-Ironclad, miscellaneous utilities.
+Ironclad security utilities.
